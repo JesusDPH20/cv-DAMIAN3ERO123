@@ -18,7 +18,7 @@ Sin Experiencia Profesional
 
 # Idiomas
 
-Ingles Basico
+Ingles Básico
 
 # Habilidades Técnicas
 
