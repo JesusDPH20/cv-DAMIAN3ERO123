@@ -1,8 +1,8 @@
 # Acerca de mí:
-- Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+![Damian](https://www.facebook.com/photo.php?fbid=1005898986208346&set=a.111158435682410&type=3&theater)
+- Damian Matuz Cristino
+- dam.matuz@gmail.com
+- DAMIAN3ERO123
 
 # Formación Académica
 
